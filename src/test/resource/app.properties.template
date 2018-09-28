@@ -1,0 +1,20 @@
+LOGIN_URL="http://localhost:8080/acustream/login.jsp"
+
+LOGIN_FIELD="#login"
+USER_NAME="XXX"
+
+PASSWORD_FIELD="#password"
+PASSWORD="XXX"
+
+LOGIN_BUTTON=".login_controls_button > a"
+
+WAIT_FOR_HOMEPAGE_ELEMENT=".mainframeHeaderBackground"
+MISSING_CHARGE_LINK=".quickStartAnchor.x-component"
+
+WAIT_FOR_GRID_LOAD_VIEW_ELEMENT=".listPageSearchBackground.x-component.x-border"
+NAME_OF_HOSPITAL="CCF East Legacy Hospital"
+HOSPITAL_TITLE_FIELD="#main_title"
+
+GRID_LOAD_VIEW_SEARCH_BUTTON=".x-btn.x-component.x-btn-text-icon.x-unselectable  > tbody > tr:nth-child(2) > td.x-btn-mc > em > button"
+
+GRID_LOAD_VIEW_LOADING_SPINNER="#worklistGrid > div.ext-el-mask-msg"

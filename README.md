@@ -33,4 +33,5 @@ If you are using Chrome and have added ChromeDriver to the path then use the com
 `mvn test -Dtest=MyFirstChromeTest`
 
 ## Running for RevBuilder
+Copy app.properties.template file and paste as app.properties and change credentials
 `mvn test -Dtest=RevBuilderTest`
